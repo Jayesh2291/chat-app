@@ -1,0 +1,12 @@
+C:\Users\JAYESH\chat-app\backend\target\debug\deps\libhttparse-38f28a2074a6b360.rmeta: C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\lib.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs
+
+C:\Users\JAYESH\chat-app\backend\target\debug\deps\httparse-38f28a2074a6b360.d: C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\lib.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs
+
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\lib.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs:
+C:\Users\JAYESH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs:
