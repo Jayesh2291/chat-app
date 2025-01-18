@@ -1,0 +1,41 @@
+Let's break down your project and evaluate the progress based on the files and functionality we've discussed so far.
+
+Key Components of the Project:
+Backend Framework Setup (Actix Web):
+
+Status: Implemented basic Actix Web setup with routes for user registration and login.
+Completion: 100% (Backend server with basic routes is set up).
+Authentication (JWT and Bcrypt):
+
+Status: Implemented JWT token generation and password hashing using bcrypt.
+Completion: 100% (JWT authentication is integrated, and password verification is handled).
+Database (Diesel):
+
+Status: Diesel is set up for database interaction, including models and basic database queries. However, there might be some issues with the connection or query handling based on the errors you've encountered.
+Completion: 70% (Most database setup is done, but some database-related errors might still need to be resolved).
+WebSocket Handling:
+
+Status: Implemented WebSocket handling using Actix Web, but this part was not fully integrated into the main project flow.
+Completion: 50% (WebSocket setup is present but not fully integrated into user authentication and other workflows).
+Error Handling and Validation:
+
+Status: There are some issues in the code that cause errors (e.g., Diesel connection, password verification).
+Completion: 60% (Error handling needs to be improved, especially around database operations and JWT token generation).
+Project Documentation:
+
+Status: README and project documentation were discussed, but not fully implemented.
+Completion: 40% (README needs to be written, and documentation for the overall flow of the app is missing).
+Estimated Progress:
+Backend (Actix Web): 100%
+Authentication (JWT, bcrypt): 100%
+Database (Diesel): 70%
+WebSocket Integration: 50%
+Error Handling and Validation: 60%
+Documentation: 40%
+Total Progress Estimate: 70%
+There are still a few areas that need attention:
+
+Database errors: You need to resolve the errors related to Diesel, especially around connections and queries.
+WebSocket integration: The WebSocket functionality needs to be fully integrated into your routes and user workflows (e.g., user authentication before allowing WebSocket connections).
+Error handling: More robust error handling is needed, particularly for database queries and JWT generation.
+Documentation: You need to complete the README and document the project structure and setup.
